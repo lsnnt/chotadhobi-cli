@@ -6,7 +6,7 @@ A command-line interface for managing laundry services through the ChotaDhobi AP
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/lsnnt/chotadhobi-cli
 cd chotadhobi-cli
 ```
 
@@ -54,3 +54,15 @@ When sending or collecting clothes, a QR code will be displayed in the terminal 
 - `.env` file is ignored and never committed to version control
 - Token and email are stored locally only
 - Requests are made over HTTPS only
+
+## Responsible AI Disclousure
+
+The AI have been used for making main.py based on [this](REVERSE_ENGINEERED_API_DOCS.md)
+
+But the [this](REVERSE_ENGINEERED_API_DOCS.md) has been prepared by myself 
+
+
+## Outro
+
+Reverse Engineered by 
+[@lsnnt](https://github.com/lsnnt)
