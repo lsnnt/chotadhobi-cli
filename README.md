@@ -4,7 +4,7 @@ A command-line interface for managing laundry services through the ChotaDhobi AP
 
 ## Demo
 
-[![demo demonstrating the use](https://asciinema.org/a/1YYtxGLpH6JvTj7Y.svg)](https://asciinema.org/a/1YYtxGLpH6JvTj7Y)
+[![asciicast](https://asciinema.org/a/GSDcyQLdhCUewST8.svg)](https://asciinema.org/a/GSDcyQLdhCUewST8)
 
 ## Installation
 
