@@ -59,7 +59,7 @@ When sending or collecting clothes, a QR code will be displayed in the terminal 
 
 The AI have been used for making main.py based on [this](REVERSE_ENGINEERED_API_DOCS.md)
 
-But the [this](REVERSE_ENGINEERED_API_DOCS.md) has been prepared by myself 
+But [the reverse engineered api's docs](REVERSE_ENGINEERED_API_DOCS.md) have been prepared by me. 
 
 
 ## Outro
