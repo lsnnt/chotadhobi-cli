@@ -4,4 +4,4 @@ idna==3.11
 python-dotenv==1.2.2
 qrcode==8.2
 requests==2.33.1
-urllib3==2.6.3
+urllib3==2.7.0
