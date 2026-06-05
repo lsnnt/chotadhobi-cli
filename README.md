@@ -88,5 +88,5 @@ When sending or collecting clothes, a QR code is displayed in the terminal conta
 `main.py` was generated with AI assistance based on the [reverse-engineered API docs](REVERSE_ENGINEERED_API_DOCS.md). The API documentation itself was independently researched and written by the author.
 
 ## Credits
-Claude for cli writing
+Claude for python scripts cli writing
 Reverse engineered by [@lsnnt](https://github.com/lsnnt)
